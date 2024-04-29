@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Implement Custom ListView</string>
+    <string name="id1">22224202</string>
+    <string name="id2">22254321</string>
+    <string name="id3">22196328</string>
+    <string name="id4">22224922</string>
+    <string name="id5">22289326</string>
+    <string name="id6">22187493</string>
+    <string name="id7">22309457</string>
+    <string name="id8">22136785</string>
+    <string name="id9">22345678</string>
+    <string name="id10">22098765</string>
+    <string name="id11">22276543</string>
+    <string name="id12">22432109</string>
+    <string name="id13">22543210</string>
+    <string name="id14">22459876</string>
+    <string name="id15">22654321</string>
+    <string name="id16">22876543</string>
+    <string name="id17">22765432</string>
+    <string name="id18">22898765</string>
+    <string name="id19">22987654</string>
+    <string name="id20">22901234</string>
+    <string name="grade1">1.9</string>
+    <string name="grade2">2.5</string>
+    <string name="grade3">3.1</string>
+    <string name="grade4">1.5</string>
+    <string name="grade5">3.5</string>
+    <string name="grade6">2.2</string>
+    <string name="grade7">3.0</string>
+    <string name="grade8">3.2</string>
+    <string name="grade9">2.5</string>
+    <string name="grade10">3.0</string>
+
+
+</resources>
